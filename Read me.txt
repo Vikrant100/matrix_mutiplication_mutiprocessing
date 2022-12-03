@@ -1,0 +1,4 @@
+1. matrix_mutithread(folder) = Project files exported from eclispse
+2. Assignment 2 Matrix_mutiplication using Open MP and java threads = Report in pdf format and also in word(.docx) format.
+3. Block_matrix_multiply.java, Matrix_generator.java, MatrixMultiplicationParallel.java = created java classes files individually extracted from the project file.
+4. OpenMp.c = C code for block multiplication using block method.
